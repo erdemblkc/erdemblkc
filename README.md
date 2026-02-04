@@ -25,4 +25,12 @@ Thanks for checking out my projects and following my learning journey!
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
+### 🚀 Project Showcase
+
+| **Neon Endless Runner** | **Toy Zombie Survival** |
+|:---:|:---:|
+| <img src="https://via.placeholder.com/300x160?text=Oyun+Gorseli+Yukle" width="300"> | <img src="https://via.placeholder.com/300x160?text=Oyun+Gorseli+Yukle" width="300"> |
+| A fast-paced endless runner game featuring neon aesthetics and dynamic obstacles. | A toy-themed FPS survival game where you fight against waves of zombie toys. |
+| `Unity` `C#` `Mobile` | `Unity` `Blender` `FPS` |
+
 ---
