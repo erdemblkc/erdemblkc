@@ -1,5 +1,12 @@
-## Hi there 👋
+### 👋 Hi there, I'm Erdem!
 
+I am a university student on the path to becoming a **🎮 Game Designer** and **🎨 3D Artist**.
+
+This profile serves as a living portfolio showcasing the game projects and 3D models I create during my education. I enjoy crafting game mechanics and visualizing new worlds using tools like Blender and Unity.
+
+Thanks for checking out my projects and following my learning journey!
+
+---
 <!--
 **erdemblkc/erdemblkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
