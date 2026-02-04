@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Erdem!
+### 👋 I'm Erdem!
 
 I am a university student on the path to becoming a **🎮 Game Designer** and **🎨 3D Artist**.
 
