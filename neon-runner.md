@@ -1,16 +1,26 @@
 # 🏃 Neon Runner
 
-> Neon ışıkları altında, reflekslerinizi test eden hızlı bir sonsuz koşu deneyimi.
+> Test your reflexes in a chaotic world of neon lights and spinning obstacles.
 
-### 🎮 Proje Hakkında
-Cyberpunk estetiğinden ilham alan bu mobil oyunda, oyuncular dinamik engelleri aşarak en yüksek skoru yapmaya çalışır.
+### 🎮 About the Game
+This is a fast-paced **endless runner** set in a vibrant neon universe.
 
-### ⚙️ Teknik Detaylar
-* **Motor:** Unity
-* **Dil:** C#
-* **Platform:** Android / iOS
+The core mechanic revolves around timing and precision: players must navigate through gaps in **rotating circles**. To keep the challenge alive, each circle spins in a **random direction** and at a **random speed**, ensuring that no two runs are ever the same.
 
-### 📸 Ekran Görüntüleri
-(Buraya oyunun görsellerini sürükleyip bırakabilirsin)
+The objective is simple but addictive: survive the spinning obstacles as long as possible to achieve the highest score.
 
-[🔙 Ana Sayfaya Dön](https://github.com/erdemblkc)
+### ⚙️ Technical Details
+* **Engine:** Unity
+* **Language:** C#
+* **Platform:** Mobile (Android/iOS)
+* **Genre:** Hyper-casual / Endless Runner
+
+---
+
+### 🎬 Gameplay Video
+https://github.com/user-attachments/assets/5222ce15-eefc-457c-b6c8-db39bb2969ad
+
+[🔙 Back to Profile](https://github.com/erdemblkc)
+
+
+
