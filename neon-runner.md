@@ -18,9 +18,12 @@ The objective is simple but addictive: survive the spinning obstacles as long as
 ---
 
 ### 🎬 Gameplay Video
-https://github.com/user-attachments/assets/5222ce15-eefc-457c-b6c8-db39bb2969ad
+https://github.com/user-attachments/assets/b6a74bad-b923-48b3-acc6-1f2e2cec0c1b
 
 [🔙 Back to Profile](https://github.com/erdemblkc)
+
+
+
 
 
 
