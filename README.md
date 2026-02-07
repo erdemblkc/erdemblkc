@@ -42,7 +42,7 @@ Thanks for checking out my projects and following my learning journey!
       </div>
       <br />
       <p>
-        A toy-themed FPS game where you fight against zombie waves to <strong>find a cure for the virus</strong>. Character modeling and mechanics are developed by me.
+        <strong>[Work in Progress]</strong> A toy-themed FPS game where you fight against zombie waves to find a cure for the virus. I am currently developing the character models and mechanics.
       </p>
       <p>
         <strong>Tech:</strong> 
@@ -59,7 +59,7 @@ Thanks for checking out my projects and following my learning journey!
       </div>
       <br />
       <p>
-        A fast-paced endless runner game featuring neon aesthetics and dynamic obstacles, developed for mobile platforms.
+        <strong>[Work in Progress]</strong> A fast-paced endless runner game featuring neon aesthetics and dynamic obstacles. I am actively developing this project for mobile platforms.
       </p>
       <p>
         <strong>Tech:</strong> 
