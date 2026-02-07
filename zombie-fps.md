@@ -19,24 +19,24 @@ Here are the 3D character models I created specifically for this game using Blen
 <table>
   <tr>
     <td align="center">
-      <img src="KARAKTER_1_LINKINI_BURAYA_YAPISTIR" width="200" />
+      <img src="https://github.com/user-attachments/assets/19a366c0-37fd-4470-a6a7-836bf75288d8" width="200" />
       <br />
       <b>Character 1</b>
     </td>
     <td align="center">
-      <img src="KARAKTER_2_LINKINI_BURAYA_YAPISTIR" width="200" />
+      <img src="https://github.com/user-attachments/assets/8788f279-8cde-42c0-ab84-7b8c0b1e2761" width="200" />
       <br />
       <b>Character 2</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="KARAKTER_3_LINKINI_BURAYA_YAPISTIR" width="200" />
+      <img src="https://github.com/user-attachments/assets/f4c2b528-b723-4338-87f7-ef44f8db37cc" width="200" />
       <br />
       <b>Character 3</b>
     </td>
     <td align="center">
-      <img src="KARAKTER_4_LINKINI_BURAYA_YAPISTIR" width="200" />
+      <img src="https://github.com/user-attachments/assets/02aa6211-7203-4380-8b2e-893ed46e0275" width="200" />
       <br />
       <b>Character 4</b>
     </td>
