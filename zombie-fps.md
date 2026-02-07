@@ -45,7 +45,22 @@ Here are the 3D character models I created specifically for this game using Blen
 
 ---
 
-### 📸 Gameplay Screenshots
-<img src="OYUN_ICI_GORSEL_LINKINI_BURAYA_YAPISTIR" width="100%" />
+### 🎬 Gameplay GIFs
+Here are some action sequences from the game, showcasing combat mechanics and the environment.
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="BURAYA_GIF_1_LINKINI_YAPISTIR" width="100%" />
+      <br />
+      <i>(Örn: Zombi Dalgası Saldırısı)</i> </td>
+    <td width="50%" align="center">
+      <img src="BURAYA_GIF_2_LINKINI_YAPISTIR" width="100%" />
+      <br />
+      <i>(Örn: Silah Mekaniği ve Çevre)</i> </td>
+  </tr>
+</table>
+
+[🔙 Back to Profile](https://github.com/erdemblkc)
 
 [🔙 Back to Profile](https://github.com/erdemblkc)
