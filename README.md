@@ -42,7 +42,7 @@ Thanks for checking out my projects and following my learning journey!
       </div>
       <br />
       <p>
-        A toy-themed FPS survival game where you fight against waves of zombie toys. Modeling and mechanics are entirely made by me.
+        A toy-themed FPS game where you fight against zombie waves to <strong>find a cure for the virus</strong>. Character modeling and mechanics are developed by me.
       </p>
       <p>
         <strong>Tech:</strong> 
