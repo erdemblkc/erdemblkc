@@ -15,7 +15,9 @@ Thanks for checking out my projects and following my learning journey!
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
   
-  <br /> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <br />
+
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white" alt="Aseprite" />
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" alt="Premiere Pro" />
@@ -25,13 +27,7 @@ Thanks for checking out my projects and following my learning journey!
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-### 🚀 Project Showcase
-
-| **Neon Endless Runner** | **Toy Zombie Survival** |
-|:---:|:---:|
-| <img src="https://via.placeholder.com/300x160?text=Oyun+Gorseli+Yukle" width="300"> | <img src="https://via.placeholder.com/300x160?text=Oyun+Gorseli+Yukle" width="300"> |
-| A fast-paced endless runner game featuring neon aesthetics and dynamic obstacles. | A toy-themed FPS survival game where you fight against waves of zombie toys. |
-| `Unity` `C#` `Mobile` | `Unity` `Blender` `FPS` |
+---
 
 ### 🚀 Project Showcase
 
@@ -44,7 +40,7 @@ Thanks for checking out my projects and following my learning journey!
       </div>
       <br />
       <p>
-        Oyuncak temalı, zombi dalgalarına karşı hayatta kalmaya çalıştığın bir FPS oyunu. Modelleme ve mekanikler tamamen bana ait.
+        A toy-themed FPS survival game where you fight against waves of zombie toys. Modeling and mechanics are entirely made by me.
       </p>
       <p>
         <strong>Tech:</strong> 
@@ -59,7 +55,7 @@ Thanks for checking out my projects and following my learning journey!
       </div>
       <br />
       <p>
-        Pembe ve turkuaz neon estetiğine sahip, mobil cihazlar için geliştirdiğim sonsuz koşu oyunu.
+        A fast-paced endless runner game featuring neon aesthetics and dynamic obstacles, developed for mobile platforms.
       </p>
       <p>
         <strong>Tech:</strong> 
@@ -69,5 +65,3 @@ Thanks for checking out my projects and following my learning journey!
     </td>
   </tr>
 </table>
----
-
