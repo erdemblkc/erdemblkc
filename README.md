@@ -36,7 +36,9 @@ Thanks for checking out my projects and following my learning journey!
     <td width="50%">
       <h3 align="center">🧟 Toy Zombie Survival (FPS)</h3>
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/98511511-a8d1-4eb6-bf1a-1ed8b9a1b824" width="100%" />
+        <a href="https://github.com/erdemblkc/erdemblkc/blob/main/zombie-fps.md">
+          <img src="https://github.com/user-attachments/assets/98511511-a8d1-4eb6-bf1a-1ed8b9a1b824" width="100%" />
+        </a>
       </div>
       <br />
       <p>
@@ -51,7 +53,9 @@ Thanks for checking out my projects and following my learning journey!
     <td width="50%">
       <h3 align="center">🏃 Neon Runner (Mobile)</h3>
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/970b776e-ee25-4f83-be41-4f3304f23b04" width="100%" />
+        <a href="https://github.com/erdemblkc/erdemblkc/blob/main/neon-runner.md">
+          <img src="https://github.com/user-attachments/assets/970b776e-ee25-4f83-be41-4f3304f23b04" width="100%" />
+        </a>
       </div>
       <br />
       <p>
