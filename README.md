@@ -33,4 +33,41 @@ Thanks for checking out my projects and following my learning journey!
 | A fast-paced endless runner game featuring neon aesthetics and dynamic obstacles. | A toy-themed FPS survival game where you fight against waves of zombie toys. |
 | `Unity` `C#` `Mobile` | `Unity` `Blender` `FPS` |
 
+### 🚀 Project Showcase
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧟 Toy Zombie Survival (FPS)</h3>
+      <div align="center">
+        <img src="https://github.com/user-attachments/assets/98511511-a8d1-4eb6-bf1a-1ed8b9a1b824" width="100%" />
+      </div>
+      <br />
+      <p>
+        Oyuncak temalı, zombi dalgalarına karşı hayatta kalmaya çalıştığın bir FPS oyunu. Modelleme ve mekanikler tamamen bana ait.
+      </p>
+      <p>
+        <strong>Tech:</strong> 
+        <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity" />
+        <img src="https://img.shields.io/badge/-Blender-orange?style=flat-square&logo=blender" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏃 Neon Runner (Mobile)</h3>
+      <div align="center">
+        <img src="https://github.com/user-attachments/assets/970b776e-ee25-4f83-be41-4f3304f23b04" width="100%" />
+      </div>
+      <br />
+      <p>
+        Pembe ve turkuaz neon estetiğine sahip, mobil cihazlar için geliştirdiğim sonsuz koşu oyunu.
+      </p>
+      <p>
+        <strong>Tech:</strong> 
+        <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity" />
+        <img src="https://img.shields.io/badge/-C%23-green?style=flat-square&logo=c-sharp" />
+      </p>
+    </td>
+  </tr>
+</table>
 ---
+
