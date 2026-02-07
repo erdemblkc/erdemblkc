@@ -8,7 +8,7 @@ This project is an FPS (First Person Shooter) game developed with Unity. You are
 ### ⚙️ Technical Details
 * **Engine:** Unity
 * **Language:** C#
-* **Modeling:** Blender (All character models and weapons were created by me. The map environment is a third-party asset.)
+* **Modeling:** Blender 
 * **Platform:** PC
 
 ---
