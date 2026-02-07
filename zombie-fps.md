@@ -51,11 +51,11 @@ Here are some action sequences from the game, showcasing combat mechanics and th
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="BURAYA_GIF_1_LINKINI_YAPISTIR" width="100%" />
+      <img src="https://github.com/user-attachments/assets/81ae0651-39c8-40ba-9c91-2488456671d8" width="100%" />
       <br />
       <i>(Örn: Zombi Dalgası Saldırısı)</i> </td>
     <td width="50%" align="center">
-      <img src="BURAYA_GIF_2_LINKINI_YAPISTIR" width="100%" />
+      <img src="https://github.com/user-attachments/assets/a0a46464-d585-4963-b022-d1bec25c8ca0" width="100%" />
       <br />
       <i>(Örn: Silah Mekaniği ve Çevre)</i> </td>
   </tr>
